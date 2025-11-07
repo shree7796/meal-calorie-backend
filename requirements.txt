@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+rapidfuzz
+cachetools
+slowapi
+pytest
+pytest-asyncio
+pydantic-settings
+email-validator
