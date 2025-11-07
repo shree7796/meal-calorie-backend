@@ -48,6 +48,7 @@ Docs → http://127.0.0.1:8000/docs
 
 ## 📁 Project Structure
 
+```
 meal-calorie-backend/
 ├─ app/
 │  ├─ main.py
@@ -70,6 +71,8 @@ meal-calorie-backend/
 ├─ .env.example
 ├─ requirements.txt
 ├─ README.md
+```
+
 
 ## 🔐 Authentication APIs
 
